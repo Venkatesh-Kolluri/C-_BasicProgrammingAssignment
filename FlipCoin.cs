@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class FlipCoin
     {
-     /*   public static void Main(string[] args)
+       public static void Main(string[] args)
         {
             Random random = new Random();
             int coin = random.Next(1, 3);
@@ -24,7 +24,7 @@ namespace BasicProgramming
                 Console.WriteLine("Its Tails and percentage of tails is: " + percent+"%");
 
             }
-        }*/
+        }
 
     }
 }
