@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class EvenOdd
     {
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a;
             Console.WriteLine("Enter a number to find even or odd");
@@ -22,6 +22,6 @@ namespace BasicProgramming
             {
                 Console.WriteLine("The number is an odd number");
             }
-        }*/
+        }
     }
 }
