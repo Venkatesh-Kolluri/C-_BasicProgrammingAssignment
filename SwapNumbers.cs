@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class SwapNumbers
     {
-        /*public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a;
             int b;
@@ -18,7 +18,7 @@ namespace BasicProgramming
             b = Convert.ToInt32(Console.ReadLine());
 
             swap(a, b);
-        }*/
+        }
         public static void swap(int a,int b)
         {
             a = a + b;
