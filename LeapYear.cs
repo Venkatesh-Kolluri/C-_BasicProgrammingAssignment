@@ -8,14 +8,14 @@ namespace BasicProgramming
 {
     internal class LeapYear
     {
-     /*   public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int year;
             Console.WriteLine("Enter the year: ");
             year = Convert.ToInt32(Console.ReadLine());
             leapYear(year);
 
-        }*/
+        }
         public static void leapYear(int year)
         {
             if (((year % 4 == 0) && (year % 100 != 0)) || (year % 4 == 0))
