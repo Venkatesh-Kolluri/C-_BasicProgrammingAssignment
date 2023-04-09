@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class QueRem
     {
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a;
             int b;
@@ -22,7 +22,7 @@ namespace BasicProgramming
             Console.WriteLine("Quotient: " + result1);
             Console.WriteLine("Reminder: " + result2);
 
-        }*/
+        }
         public static int quotient(int a, int b)
         {
             int result1 = a / b;
