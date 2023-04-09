@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class HarmonicNumber
     {
-     /*   static void Main(string[] args)
+        static void Main(string[] args)
         {
             float i;
             int y;
@@ -26,6 +26,6 @@ namespace BasicProgramming
             }
             Console.WriteLine();
             Console.WriteLine("Sum of Series Upto 6 terms: " + d);
-        }*/
+        }
     }
 }
