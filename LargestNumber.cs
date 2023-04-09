@@ -9,7 +9,7 @@ namespace BasicProgramming
 {
     internal class LargestNumber
     {
-      /*  public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a;
             int b;
@@ -24,6 +24,6 @@ namespace BasicProgramming
             int max = (a > b) ? (a > c ? a : c) : (b > c ? b : c);
 
             Console.WriteLine("The maximum number is " + max);
-        }*/
+        }
     }
 }
