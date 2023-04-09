@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class Power
     {
-       /* static void Main(string[] args)
+        static void Main(string[] args)
         {
             int num;
             int power;
@@ -22,7 +22,7 @@ namespace BasicProgramming
             int result = powerOf(num, power);
             Console.WriteLine(result);
 
-        }*/
+        }
         public static int powerOf(int num, int power)
         {
             int result = 1;
