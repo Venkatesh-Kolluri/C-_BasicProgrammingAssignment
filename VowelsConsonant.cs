@@ -8,7 +8,7 @@ namespace BasicProgramming
 {
     internal class VowelsConsonant
     {
-        /*public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             char x;
             Console.WriteLine("Enter a alphabet: ");
@@ -27,6 +27,6 @@ namespace BasicProgramming
                 Console.WriteLine("Enter a valid alphabet");
             }
 
-        }*/
+        }
     }
 }
